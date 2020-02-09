@@ -4,4 +4,5 @@ venv/
 .ipynb_checkpoints/
 
 data/
+encoder/
 opencv-haarcascade/
